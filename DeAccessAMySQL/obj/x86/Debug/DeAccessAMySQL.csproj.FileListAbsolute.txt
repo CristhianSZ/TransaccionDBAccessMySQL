@@ -1,0 +1,16 @@
+C:\Users\Cristhian\AppData\Local\Temporary Projects\DeAccessAMySQL\bin\Debug\DeAccessAMySQL.exe.config
+C:\Users\Cristhian\AppData\Local\Temporary Projects\DeAccessAMySQL\bin\Debug\DeAccessAMySQL.exe
+C:\Users\Cristhian\AppData\Local\Temporary Projects\DeAccessAMySQL\bin\Debug\DeAccessAMySQL.pdb
+C:\Users\Cristhian\AppData\Local\Temporary Projects\DeAccessAMySQL\obj\x86\Debug\DeAccessAMySQL.Form1.resources
+C:\Users\Cristhian\AppData\Local\Temporary Projects\DeAccessAMySQL\obj\x86\Debug\DeAccessAMySQL.Properties.Resources.resources
+C:\Users\Cristhian\AppData\Local\Temporary Projects\DeAccessAMySQL\obj\x86\Debug\DeAccessAMySQL.csproj.GenerateResource.Cache
+C:\Users\Cristhian\AppData\Local\Temporary Projects\DeAccessAMySQL\obj\x86\Debug\DeAccessAMySQL.exe
+C:\Users\Cristhian\AppData\Local\Temporary Projects\DeAccessAMySQL\obj\x86\Debug\DeAccessAMySQL.pdb
+C:\Users\Cristhian\documents\visual studio 2010\Projects\DeAccessAMySQL\DeAccessAMySQL\bin\Debug\DeAccessAMySQL.exe.config
+C:\Users\Cristhian\documents\visual studio 2010\Projects\DeAccessAMySQL\DeAccessAMySQL\obj\x86\Debug\DeAccessAMySQL.exe
+C:\Users\Cristhian\documents\visual studio 2010\Projects\DeAccessAMySQL\DeAccessAMySQL\obj\x86\Debug\DeAccessAMySQL.pdb
+C:\Users\Cristhian\documents\visual studio 2010\Projects\DeAccessAMySQL\DeAccessAMySQL\bin\Debug\DeAccessAMySQL.exe
+C:\Users\Cristhian\documents\visual studio 2010\Projects\DeAccessAMySQL\DeAccessAMySQL\bin\Debug\DeAccessAMySQL.pdb
+C:\Users\Cristhian\documents\visual studio 2010\Projects\DeAccessAMySQL\DeAccessAMySQL\obj\x86\Debug\DeAccessAMySQL.Form1.resources
+C:\Users\Cristhian\documents\visual studio 2010\Projects\DeAccessAMySQL\DeAccessAMySQL\obj\x86\Debug\DeAccessAMySQL.Properties.Resources.resources
+C:\Users\Cristhian\documents\visual studio 2010\Projects\DeAccessAMySQL\DeAccessAMySQL\obj\x86\Debug\DeAccessAMySQL.csproj.GenerateResource.Cache
